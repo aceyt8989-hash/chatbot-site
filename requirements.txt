@@ -1,0 +1,6 @@
+composio_crewai
+crewai
+langchain-google-genai
+fastapi
+uvicorn
+python-dotenv
